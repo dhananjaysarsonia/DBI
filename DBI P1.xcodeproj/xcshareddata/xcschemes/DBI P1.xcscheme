@@ -42,7 +42,7 @@
       allowLocationSimulation = "YES">
       <PathRunnable
          runnableDebuggingMode = "0"
-         FilePath = "/Users/dhananjaysarsonia/Downloads/xcode try /DBI P1/main">
+         FilePath = "/Users/dhananjaysarsonia/Downloads/dbigit/DBI/main">
       </PathRunnable>
    </LaunchAction>
    <ProfileAction

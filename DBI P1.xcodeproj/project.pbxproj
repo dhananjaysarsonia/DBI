@@ -218,12 +218,12 @@
 /* Begin PBXLegacyTarget section */
 		D122D96323E3ECE300BD932F /* DBI P1 */ = {
 			isa = PBXLegacyTarget;
-			buildArgumentsString = main;
+			buildArgumentsString = "";
 			buildConfigurationList = D122D96623E3ECE300BD932F /* Build configuration list for PBXLegacyTarget "DBI P1" */;
 			buildPhases = (
 			);
 			buildToolPath = /usr/bin/make;
-			buildWorkingDirectory = "/Users/dhananjaysarsonia/Downloads/xcode try /DBI P1";
+			buildWorkingDirectory = /Users/dhananjaysarsonia/Downloads/dbigit/DBI;
 			dependencies = (
 			);
 			name = "DBI P1";
